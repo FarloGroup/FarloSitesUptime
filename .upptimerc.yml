@@ -5,39 +5,55 @@ repo: FarloSitesUptime # The name of this repository
 sites:
   - name: Allegiance Musical
     url: https://allegiancemusical.com/
+    icon: https://allegiancemusical.com/wp-content/themes/allegiance/static/img/favicon.ico
   - name: Backup Tech
     url: https://backuptech.uk/
+    icon: https://www.backuptech.uk/app/uploads/2022/04/site-icon.png
   - name: Cages
     url: https://cageslondon.com/
+    icon: https://cageslondon.com/app/uploads/2022/07/site-icon-512px.png
   - name: Charlie and the Chocolate Factory
     url: https://charlieandthechocolatefactory.co.uk/
+    icon: https://charlieandthechocolatefactory.co.uk/app/uploads/2022/04/Logo-256.png
   - name: Come From Away
     url: https://comefromawaylondon.co.uk/
+    icon: https://comefromawaylondon.co.uk/app/uploads/2022/03/site-icon.png
   - name: Cruse The Play
     url: https://cruisetheplay.co.uk/
+    icon: https://cruisetheplay.co.uk/app/uploads/2022/05/favicon.jpg
   - name: Elf London
     url: https://elflondon.com/
+    icon: https://elflondon.com/app/uploads/2022/04/favicon.png
   - name: Farlo
     url: https://farlo.co.uk
+    icon: https://farlo.co.uk/wp-content/uploads/2022/03/Farlo-Icon-Mar22.png
   - name: Future Care Group
     url: https://www.futurecaregroup.com/
+    icon: https://www.futurecaregroup.com/wp-content/uploads/2021/03/fcg-favicon-300x300.png
   - name: McKittrick Hotel
     url: https://mckittrickhotel.com
+    icon: https://mckittrickhotel.com/wp-content/themes/mckittrick/dist/images/icons/apple-icon-152x152.png
   - name: One-Woman Show
     url: https://one-womanshow.com/
   - name: Saw The Experience
     url: https://sawtheexperience.com/
+    icon: https://sawtheexperience.com/app/uploads/2022/01/cropped-favicon.png
   - name: Scenario Two
     url: https://www.scenario-two.com/
+    icon: https://www.scenario-two.com/wp-content/uploads/2020/08/cropped-icon-180x180.png
   - name: SINE Digital
     url: https://sinedigital.co.uk/
+    icon: https://sinedigital.co.uk/wp-content/uploads/2021/02/cropped-sine-site-logo-180x180.png
   - name: This Is Labyrinth
     url: http://thisislabyrinth.com/
+    icon: https://thisislabyrinth.com/app/uploads/2022/06/favicon-256.jpg
   - name: Tom Dick and Harry
-    url: tomdickandharryonstage.com/
+    url: https://tomdickandharryonstage.com/
+    icon: https://tomdickandharryonstage.com/wp-content/uploads/2022/04/favicon-16x16-1.png
   - name: WondervilleUK
     url: https://wondervilleuk.com/
-assignees: # Users to assign downtime issues (optional)
+    icon: https://wondervilleuk.com/app/uploads/2022/06/site-icon-512px.png
+assignees:
   - mrtdale
   - ukdesignservices
 favicon: https://farlo.co.uk/wp-content/uploads/2022/03/Farlo-Icon-Mar22.png
