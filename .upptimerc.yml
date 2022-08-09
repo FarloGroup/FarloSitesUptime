@@ -3,8 +3,40 @@ owner: FarloGroup # Your GitHub organization or username, where this repository 
 repo: FarloSitesUptime # The name of this repository
 
 sites:
+  - name: Allegiance Musical
+    url: https://allegiancemusical.com/
+  - name: Backup Tech
+    url: https://backuptech.uk/
+  - name: Cages
+    url: https://cageslondon.com/
+  - name: Charlie and the Chocolate Factory
+    url: https://charlieandthechocolatefactory.co.uk/
+  - name: Come From Away
+    url: https://comefromawaylondon.co.uk/
+  - name: Cruse The Play
+    url: https://cruisetheplay.co.uk/
+  - name: Elf London
+    url: https://elflondon.com/
+  - name: Farlo
+    url: https://farlo.co.uk
+  - name: Future Care Group
+    url: https://www.futurecaregroup.com/
   - name: McKittrick Hotel
     url: https://mckittrickhotel.com
+  - name: One-Woman Show
+    url: https://one-womanshow.com/
+  - name: Saw: The Experience
+    url: https://sawtheexperience.com/
+  - name: Scenario Two
+    url: https://www.scenario-two.com/
+  - name: SINE Digital
+    url: https://sinedigital.co.uk/
+  - name: This Is Labyrinth
+    url: http://thisislabyrinth.com/
+  - name: Tom Dick and Harry
+    url: tomdickandharryonstage.com/
+  - name: WondervilleUK
+    url: https://wondervilleuk.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
