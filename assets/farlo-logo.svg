@@ -2,7 +2,7 @@
                     <defs>
                         <style>
                             .a{fill:#111116;}
-                            .v {fill:url(#gradient);}
+                            .v {fill:#ff8001;}
                         </style>
                         <pattern id="gradient" patternUnits="userSpaceOnUse" width="512" height="512">
                             <image href="/wp-content/uploads/2022/03/gradient.jpg" x="0" y="0" width="512" height="512"></image>
