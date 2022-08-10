@@ -65,14 +65,12 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/FarloGroup/FarloSitesUptime/master/assets/farlo-logo.svg
   favicon: https://raw.githubusercontent.com/FarloGroup/FarloSitesUptime/master/assets/Farlo-Icon-Mar22.png
-  name: Farlo Server Sites
-  introTitle: "**Farlo Uptime**"
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/FarloGroup).
+  name: Farlo Sites
+  introTitle: "**Farlo Sites | Uptime Monitoring**"
+  introMessage: This is a status page which uses **real-time** data.
   metaTags:
     - name: "Robots"
       content: "noindex"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
