@@ -64,7 +64,7 @@ status-website:
   cname: uptime.farlo.co.uk
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/FarloGroup/FarloSitesUptime/master/assets/farlo-logo.svg
-  favicon: https://raw.githubusercontent.com/FarloGroup/FarloSitesUptime/master/assets/farlo-Icon-Mar22.png
+  favicon: https://raw.githubusercontent.com/FarloGroup/FarloSitesUptime/master/assets/Farlo-Icon-Mar22.png
   name: Farlo Server Sites
   introTitle: "**Farlo Uptime**"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/FarloGroup).
