@@ -149,19 +149,17 @@
     "icon": "https://www.futurecaregroup.com/wp-content/uploads/2021/03/fcg-favicon-300x300.png",
     "slug": "future-care-group",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1585,
     "timeDay": 1442,
     "timeWeek": 1585,
     "timeMonth": 1585,
     "timeYear": 1585,
-    "dailyMinutesDown": {
-      "2022-08-12": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "McKittrick Hotel",
@@ -204,18 +202,20 @@
     "url": "https://sawtheexperience.com/",
     "icon": "https://sawtheexperience.com/app/uploads/2022/01/cropped-favicon.png",
     "slug": "saw-the-experience",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 736,
     "timeDay": 766,
     "timeWeek": 736,
     "timeMonth": 736,
     "timeYear": 736,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-12": 1
+    }
   },
   {
     "name": "Scenario Two",
@@ -259,19 +259,17 @@
     "icon": "https://thisislabyrinth.com/app/uploads/2022/06/favicon-256.jpg",
     "slug": "this-is-labyrinth",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 472,
     "timeDay": 661,
     "timeWeek": 472,
     "timeMonth": 472,
     "timeYear": 472,
-    "dailyMinutesDown": {
-      "2022-08-12": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tom Dick and Harry",
