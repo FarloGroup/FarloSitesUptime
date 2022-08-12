@@ -202,19 +202,19 @@
     "url": "https://sawtheexperience.com/",
     "icon": "https://sawtheexperience.com/app/uploads/2022/01/cropped-favicon.png",
     "slug": "saw-the-experience",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 736,
-    "timeDay": 766,
-    "timeWeek": 736,
-    "timeMonth": 736,
-    "timeYear": 736,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 775,
+    "timeDay": 988,
+    "timeWeek": 775,
+    "timeMonth": 775,
+    "timeYear": 775,
     "dailyMinutesDown": {
-      "2022-08-12": 1
+      "2022-08-12": 5
     }
   },
   {
