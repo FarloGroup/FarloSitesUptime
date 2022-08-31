@@ -76,18 +76,20 @@
     "url": "https://comefromawaylondon.co.uk/",
     "icon": "https://comefromawaylondon.co.uk/app/uploads/2022/03/site-icon.png",
     "slug": "come-from-away",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1012,
-    "timeDay": 1073,
-    "timeWeek": 844,
-    "timeMonth": 1012,
-    "timeYear": 1012,
-    "dailyMinutesDown": {}
+    "time": 996,
+    "timeDay": 799,
+    "timeWeek": 798,
+    "timeMonth": 996,
+    "timeYear": 996,
+    "dailyMinutesDown": {
+      "2022-08-31": 0
+    }
   },
   {
     "name": "Cruse The Play",
