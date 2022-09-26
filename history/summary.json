@@ -292,17 +292,19 @@
     "url": "https://wondervilleuk.com/",
     "icon": "https://wondervilleuk.com/app/uploads/2022/06/site-icon-512px.png",
     "slug": "wonderville-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 1115,
-    "timeWeek": 681,
-    "timeMonth": 712,
-    "timeYear": 920,
-    "dailyMinutesDown": {}
+    "time": 909,
+    "timeDay": 766,
+    "timeWeek": 648,
+    "timeMonth": 698,
+    "timeYear": 909,
+    "dailyMinutesDown": {
+      "2022-09-26": 0
+    }
   }
 ]
