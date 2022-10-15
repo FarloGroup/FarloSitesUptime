@@ -294,9 +294,9 @@
     "url": "https://wondervilleuk.com/",
     "icon": "https://wondervilleuk.com/app/uploads/2022/06/site-icon-512px.png",
     "slug": "wonderville-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -305,6 +305,8 @@
     "timeWeek": 581,
     "timeMonth": 625,
     "timeYear": 819,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-15": 0
+    }
   }
 ]
