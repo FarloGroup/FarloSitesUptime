@@ -260,19 +260,19 @@
     "url": "http://thisislabyrinth.com/",
     "icon": "https://thisislabyrinth.com/app/uploads/2022/06/favicon-256.jpg",
     "slug": "this-is-labyrinth",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1136,
-    "timeDay": 4150,
-    "timeWeek": 2002,
-    "timeMonth": 1515,
+    "timeDay": 3139,
+    "timeWeek": 1904,
+    "timeMonth": 1503,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2022-10-28": 0
+      "2022-10-28": 6
     }
   },
   {
