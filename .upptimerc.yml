@@ -33,8 +33,6 @@ sites:
   - name: McKittrick Hotel
     url: https://mckittrickhotel.com
     icon: https://mckittrickhotel.com/wp-content/themes/mckittrick/dist/images/icons/apple-icon-152x152.png
-  - name: One-Woman Show
-    url: https://one-womanshow.com/
   - name: Saw The Experience
     url: https://sawtheexperience.com/
     icon: https://sawtheexperience.com/app/uploads/2022/01/cropped-favicon.png
@@ -50,9 +48,6 @@ sites:
   - name: Tom Dick and Harry
     url: https://tomdickandharryonstage.com/
     icon: https://tomdickandharryonstage.com/wp-content/uploads/2022/04/favicon-16x16-1.png
-  - name: WondervilleUK
-    url: https://wondervilleuk.com/
-    icon: https://wondervilleuk.com/app/uploads/2022/06/site-icon-512px.png
 assignees:
   - mrtdale
   - ukdesignservices
