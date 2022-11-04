@@ -4,10 +4,10 @@
     "url": "https://allegiancemusical.com/",
     "icon": "https://allegiancemusical.com/wp-content/themes/allegiance/static/img/favicon.ico",
     "slug": "allegiance-musical",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1167,
@@ -15,7 +15,9 @@
     "timeWeek": 583,
     "timeMonth": 570,
     "timeYear": 1167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-04": 1
+    }
   },
   {
     "name": "Backup Tech",
