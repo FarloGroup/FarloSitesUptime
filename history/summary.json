@@ -4,19 +4,19 @@
     "url": "https://allegiancemusical.com/",
     "icon": "https://allegiancemusical.com/wp-content/themes/allegiance/static/img/favicon.ico",
     "slug": "allegiance-musical",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1167,
-    "timeDay": 710,
-    "timeWeek": 583,
-    "timeMonth": 570,
-    "timeYear": 1167,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1161,
+    "timeDay": 674,
+    "timeWeek": 589,
+    "timeMonth": 572,
+    "timeYear": 1161,
     "dailyMinutesDown": {
-      "2022-11-04": 1
+      "2022-11-04": 7
     }
   },
   {
