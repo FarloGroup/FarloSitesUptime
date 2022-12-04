@@ -13,7 +13,7 @@
     "time": 1002,
     "timeDay": 441,
     "timeWeek": 525,
-    "timeMonth": 547,
+    "timeMonth": 544,
     "timeYear": 1002,
     "dailyMinutesDown": {}
   },
@@ -166,10 +166,10 @@
     "url": "https://mckittrickhotel.com",
     "icon": "https://mckittrickhotel.com/wp-content/themes/mckittrick/dist/images/icons/apple-icon-152x152.png",
     "slug": "mc-kittrick-hotel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 2094,
@@ -178,6 +178,7 @@
     "timeMonth": 1198,
     "timeYear": 2094,
     "dailyMinutesDown": {
+      "2022-12-04": 0,
       "2022-12-02": 23,
       "2022-09-30": 27
     }
