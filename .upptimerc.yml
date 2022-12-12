@@ -5,7 +5,7 @@ repo: FarloSitesUptime # The name of this repository
 sites:
   - name: Allegiance Musical
     url: https://allegiancemusical.com/
-    icon: https://allegiancemusical.com/wp-content/themes/allegiance/static/img/favicon.ico
+    icon: https://allegiancemusical.com/app/uploads/2022/07/allegiance-flower.png
   - name: Backup Tech
     url: https://backuptech.uk/
     icon: https://www.backuptech.uk/app/uploads/2022/04/site-icon.png
@@ -27,9 +27,6 @@ sites:
   - name: Farlo
     url: https://farlo.co.uk
     icon: https://farlo.co.uk/wp-content/uploads/2022/03/Farlo-Icon-Mar22.png
-  - name: Future Care Group
-    url: https://www.futurecaregroup.com/
-    icon: https://www.futurecaregroup.com/wp-content/uploads/2021/03/fcg-favicon-300x300.png
   - name: McKittrick Hotel
     url: https://mckittrickhotel.com
     icon: https://mckittrickhotel.com/wp-content/themes/mckittrick/dist/images/icons/apple-icon-152x152.png
@@ -48,6 +45,9 @@ sites:
   - name: Tom Dick and Harry
     url: https://tomdickandharryonstage.com/
     icon: https://tomdickandharryonstage.com/wp-content/uploads/2022/04/favicon-16x16-1.png
+  - name: Unbelievable Live
+    url: https://unbelievablelive.com
+    icon: https://unbelievablelive.com/app/uploads/2022/11/site-icon-512px.png
 assignees:
   - mrtdale
   - ukdesignservices
