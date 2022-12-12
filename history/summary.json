@@ -150,19 +150,19 @@
     "url": "https://www.futurecaregroup.com/",
     "icon": "https://www.futurecaregroup.com/wp-content/uploads/2021/03/fcg-favicon-300x300.png",
     "slug": "future-care-group",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1119,
-    "timeDay": 946,
-    "timeWeek": 1309,
-    "timeMonth": 1312,
-    "timeYear": 1119,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.56%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.97%",
+    "time": 1124,
+    "timeDay": 1197,
+    "timeWeek": 1353,
+    "timeMonth": 1324,
+    "timeYear": 1124,
     "dailyMinutesDown": {
-      "2022-12-12": 0
+      "2022-12-12": 50
     }
   },
   {
